@@ -5,9 +5,7 @@ class Solution {
 
         while(i < n) {
             if(nums[i] == val) {
-                int temp = nums[i];
                 nums[i] = nums[n-1];
-                nums[n-1] = temp;
                 n--;
             } else {
                 i++;
