@@ -47,4 +47,12 @@ Java DSA
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Poorvaj-HV/Java/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Poorvaj-HV/Java/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Poorvaj-HV/Java/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
