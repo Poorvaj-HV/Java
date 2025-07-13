@@ -27,6 +27,7 @@ Java DSA
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poorvaj-HV/Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/Poorvaj-HV/Java/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## String Matching
 |  |
 | ------- |
