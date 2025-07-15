@@ -70,4 +70,8 @@ Java DSA
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0088-merge-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Poorvaj-HV/Java/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
