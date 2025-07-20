@@ -60,6 +60,7 @@ Java DSA
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Poorvaj-HV/Java/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Poorvaj-HV/Java/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
@@ -74,4 +75,8 @@ Java DSA
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Poorvaj-HV/Java/tree/master/0052-n-queens-ii) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Poorvaj-HV/Java/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
