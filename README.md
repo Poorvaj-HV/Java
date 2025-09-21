@@ -66,6 +66,7 @@ Java DSA
 | [0002-add-two-numbers](https://github.com/Poorvaj-HV/Java/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Poorvaj-HV/Java/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Poorvaj-HV/Java/tree/master/0069-sqrtx) |
+| [0371-sum-of-two-integers](https://github.com/Poorvaj-HV/Java/tree/master/0371-sum-of-two-integers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Poorvaj-HV/Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -103,4 +104,8 @@ Java DSA
 | [0234-palindrome-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Poorvaj-HV/Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Poorvaj-HV/Java/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
