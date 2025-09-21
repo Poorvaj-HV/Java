@@ -22,10 +22,8 @@ public class Solution {
             sizeB++;
         }
 
-
-        // int maxSize = Math.max(sizeA, sizeB);
         int diff = Math.abs(sizeA - sizeB);
-        // int pos = Math.max(sizeA, sizeB) - diff;
+        
         tempA = headA;
         tempB = headB;
 
