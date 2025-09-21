@@ -41,7 +41,7 @@ public class Solution {
 
         while(tempA != null && tempB != null) {
             if(tempA == tempB) {
-                return tempB;
+                return tempA;
             } else {
                 tempA = tempA.next;
                 tempB = tempB.next;
