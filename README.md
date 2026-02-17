@@ -16,6 +16,7 @@ Java DSA
 | [0136-single-number](https://github.com/Poorvaj-HV/Java/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Poorvaj-HV/Java/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Poorvaj-HV/Java/tree/master/1480-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Poorvaj-HV/Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -25,6 +26,7 @@ Java DSA
 | [0141-linked-list-cycle](https://github.com/Poorvaj-HV/Java/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Poorvaj-HV/Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Poorvaj-HV/Java/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +96,7 @@ Java DSA
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Poorvaj-HV/Java/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
