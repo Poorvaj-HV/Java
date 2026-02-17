@@ -14,6 +14,7 @@ Java DSA
 | [0042-trapping-rain-water](https://github.com/Poorvaj-HV/Java/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Poorvaj-HV/Java/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Poorvaj-HV/Java/tree/master/1480-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Poorvaj-HV/Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -35,6 +36,7 @@ Java DSA
 | [0141-linked-list-cycle](https://github.com/Poorvaj-HV/Java/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Poorvaj-HV/Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
@@ -84,6 +86,7 @@ Java DSA
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Poorvaj-HV/Java/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -110,6 +113,7 @@ Java DSA
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Poorvaj-HV/Java/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Poorvaj-HV/Java/tree/master/0371-sum-of-two-integers) |
 ## Prefix Sum
 |  |
