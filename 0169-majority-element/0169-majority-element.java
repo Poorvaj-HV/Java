@@ -10,8 +10,7 @@ class Solution {
                 int count = hm.get(i);
                 count++;
                 hm.put(i, count);
-                // max = Math.max(max, hm.get(i));
-                // value = (hm.get(i) > max) ? i : max;
+                
                 if(hm.get(i) > max) {
                     max = hm.get(i);
                     value = i;
