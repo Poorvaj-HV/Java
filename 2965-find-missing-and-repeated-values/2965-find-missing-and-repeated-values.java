@@ -19,9 +19,9 @@ class Solution {
             }
         }
 
-        for(int i=0; i<r*r; i++) {
-            if(!hm.containsKey(i+1)) {
-                result[1] = i+1;
+        for(int i=1; i<=r*r; i++) {
+            if(!hm.containsKey(i)) {
+                result[1] = i;
             }
         }
 
