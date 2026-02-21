@@ -10,7 +10,7 @@ class Solution {
                 int currProf = currPrice - buyPrice;
                 maxProf = Math.max(maxProf, currProf);
             } else {
-                buyPrice = prices[i];
+                buyPrice = currPrice;
             }
         }
 
