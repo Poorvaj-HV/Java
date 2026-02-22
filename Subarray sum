@@ -1,0 +1,31 @@
+class Solution {
+    public int max_sum(int[] arr) {
+        // code here
+        int n = arr.length;
+        int[] preSum = new int[n];
+        preSum[0] = arr[0];
+        
+        for(int i=1; i<n; i++) {
+            preSum[i] = preSum[i-1] + arr[i];
+        }
+        
+        HashMap<Integer, Integer> hm = new HashMap<>();
+        
+        int maxS = -1, maxV = arr[0];
+        
+        for(int i=0; i<n; i++) {
+            maxV = Math.max(maxV, arr[i]);
+            
+            if(hm.containsKey(arr[i])) {
+                int left = hm.get(arr[i]);
+                
+                int currSum = preSum[i] - ((left > 0) ? preSum[left-1] : 0);
+                maxS = Math.max(maxS, currSum);
+            } else {
+                hm.put(arr[i], i);
+            }
+        }
+        
+        return (maxS == -1) ? maxV : maxS;
+    }
+}
