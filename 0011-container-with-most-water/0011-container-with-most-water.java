@@ -1,29 +1,20 @@
 class Solution {
     public static int maxArea(int[] height) {
         int n = height.length;
+        int left = 0, right = n-1;
         int maxC = Integer.MIN_VALUE;
-        // for(int i=0; i<n; i++) {
-        //     for(int j=i+1; j<n; j++) {
-        //         int mintower = Math.min(height[i], height[j]);
-        //         int w = j - i;
-        //         int currC = mintower * w;
 
-        //         maxC = Math.max(maxC, currC);
-        //     }
-        // }
-
-        int leftP = 0;
-        int rightP = n-1;
         for(int i=0; i<n; i++) {
-            int minT = Math.min(height[leftP], height[rightP]);
-            int w = rightP - leftP;
+            int minT = Math.min(height[left], height[right]);
+            int w = right - left;
             int currC = minT * w;
-            maxC = Math.max(maxC, currC);
 
-            if(height[leftP] <= height[rightP]) {
-                leftP++;
+            maxC = Math.max(maxC, currC);
+            
+            if(height[left] <= height[right]) {
+                left++;
             } else {
-                rightP--;
+                right--;
             }
         }
 
