@@ -87,6 +87,7 @@ Java DSA
 | [0002-add-two-numbers](https://github.com/Poorvaj-HV/Java/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Poorvaj-HV/Java/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Poorvaj-HV/Java/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Poorvaj-HV/Java/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Poorvaj-HV/Java/tree/master/0371-sum-of-two-integers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Poorvaj-HV/Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
@@ -156,4 +157,12 @@ Java DSA
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Poorvaj-HV/Java/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Poorvaj-HV/Java/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
