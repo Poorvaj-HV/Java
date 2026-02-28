@@ -16,22 +16,6 @@ class IsPalindrome {
         
         n2 = n2 + r;
         
-        boolean isPalindrome = true;
-        
-        //checking if n is a palindrome or not
-        //comparing digits of n and n2
-        while(n != 0 || n2 != 0) {
-            int r1 = n % 10;
-            int r2 = n2 % 10;
-            
-            if(r1 != r2) {
-                isPalindrome = false;
-                break;
-            }
-            n = n / 10;
-            n2 = n2 / 10;
-        }
-        
-        System.out.println(isPalindrome);
+        System.out.println((n == n2) ? "Its a palindrome" : "Its not a palindrome");
     }
 }
