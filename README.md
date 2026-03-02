@@ -21,6 +21,7 @@ Java DSA
 | [0217-contains-duplicate](https://github.com/Poorvaj-HV/Java/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Poorvaj-HV/Java/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0877-stone-game](https://github.com/Poorvaj-HV/Java/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/Poorvaj-HV/Java/tree/master/1207-unique-number-of-occurrences) |
@@ -37,6 +38,7 @@ Java DSA
 | [0205-isomorphic-strings](https://github.com/Poorvaj-HV/Java/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Poorvaj-HV/Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Poorvaj-HV/Java/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poorvaj-HV/Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Poorvaj-HV/Java/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -57,6 +59,7 @@ Java DSA
 | [0160-intersection-of-two-linked-lists](https://github.com/Poorvaj-HV/Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
@@ -117,6 +120,7 @@ Java DSA
 | [0033-search-in-rotated-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Poorvaj-HV/Java/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +129,7 @@ Java DSA
 | [0169-majority-element](https://github.com/Poorvaj-HV/Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Poorvaj-HV/Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Poorvaj-HV/Java/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Poorvaj-HV/Java/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Backtracking
