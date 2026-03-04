@@ -17,6 +17,7 @@ Java DSA
 | [0088-merge-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Poorvaj-HV/Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Poorvaj-HV/Java/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Poorvaj-HV/Java/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Poorvaj-HV/Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Poorvaj-HV/Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Poorvaj-HV/Java/tree/master/0229-majority-element-ii) |
@@ -157,6 +158,7 @@ Java DSA
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Poorvaj-HV/Java/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Poorvaj-HV/Java/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Poorvaj-HV/Java/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Poorvaj-HV/Java/tree/master/0389-find-the-difference) |
