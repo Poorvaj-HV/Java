@@ -23,6 +23,7 @@ Java DSA
 | [0229-majority-element-ii](https://github.com/Poorvaj-HV/Java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Poorvaj-HV/Java/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Poorvaj-HV/Java/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -42,6 +43,7 @@ Java DSA
 | [0217-contains-duplicate](https://github.com/Poorvaj-HV/Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Poorvaj-HV/Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Poorvaj-HV/Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poorvaj-HV/Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Poorvaj-HV/Java/tree/master/0389-find-the-difference) |
@@ -106,6 +108,7 @@ Java DSA
 | [0050-powx-n](https://github.com/Poorvaj-HV/Java/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Poorvaj-HV/Java/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Poorvaj-HV/Java/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Poorvaj-HV/Java/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/Poorvaj-HV/Java/tree/master/0877-stone-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Poorvaj-HV/Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -124,6 +127,7 @@ Java DSA
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Poorvaj-HV/Java/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
@@ -135,6 +139,7 @@ Java DSA
 | [0217-contains-duplicate](https://github.com/Poorvaj-HV/Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Poorvaj-HV/Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Poorvaj-HV/Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Poorvaj-HV/Java/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -162,6 +167,7 @@ Java DSA
 | [0136-single-number](https://github.com/Poorvaj-HV/Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Poorvaj-HV/Java/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Poorvaj-HV/Java/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Poorvaj-HV/Java/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Poorvaj-HV/Java/tree/master/0389-find-the-difference) |
