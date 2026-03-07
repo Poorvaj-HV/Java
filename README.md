@@ -7,6 +7,7 @@ Java DSA
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Poorvaj-HV/Java/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Poorvaj-HV/Java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Poorvaj-HV/Java/tree/master/0027-remove-element) |
@@ -125,6 +126,7 @@ Java DSA
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Poorvaj-HV/Java/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
@@ -179,6 +181,7 @@ Java DSA
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Poorvaj-HV/Java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Poorvaj-HV/Java/tree/master/0169-majority-element) |
 ## Counting
