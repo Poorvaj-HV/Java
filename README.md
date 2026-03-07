@@ -15,6 +15,7 @@ Java DSA
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Poorvaj-HV/Java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Poorvaj-HV/Java/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Poorvaj-HV/Java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Poorvaj-HV/Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Poorvaj-HV/Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -113,6 +114,7 @@ Java DSA
 | [0007-reverse-integer](https://github.com/Poorvaj-HV/Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Poorvaj-HV/Java/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Poorvaj-HV/Java/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Poorvaj-HV/Java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Poorvaj-HV/Java/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Poorvaj-HV/Java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
