@@ -23,6 +23,7 @@ Java DSA
 | [0137-single-number-ii](https://github.com/Poorvaj-HV/Java/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Poorvaj-HV/Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Poorvaj-HV/Java/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Poorvaj-HV/Java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Poorvaj-HV/Java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Poorvaj-HV/Java/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Poorvaj-HV/Java/tree/master/0260-single-number-iii) |
@@ -48,6 +49,7 @@ Java DSA
 | [0169-majority-element](https://github.com/Poorvaj-HV/Java/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Poorvaj-HV/Java/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Poorvaj-HV/Java/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Poorvaj-HV/Java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Poorvaj-HV/Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Poorvaj-HV/Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
@@ -226,4 +228,8 @@ Java DSA
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Poorvaj-HV/Java/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Poorvaj-HV/Java/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
