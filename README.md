@@ -30,6 +30,7 @@ Java DSA
 | [0238-product-of-array-except-self](https://github.com/Poorvaj-HV/Java/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Poorvaj-HV/Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Poorvaj-HV/Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -77,6 +78,7 @@ Java DSA
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poorvaj-HV/Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Poorvaj-HV/Java/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Poorvaj-HV/Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0908-middle-of-the-linked-list) |
