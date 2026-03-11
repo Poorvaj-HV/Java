@@ -42,6 +42,7 @@ Java DSA
 | [0877-stone-game](https://github.com/Poorvaj-HV/Java/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Poorvaj-HV/Java/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Poorvaj-HV/Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Poorvaj-HV/Java/tree/master/1480-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Poorvaj-HV/Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/Poorvaj-HV/Java/tree/master/1991-find-the-middle-index-in-array) |
@@ -142,6 +143,7 @@ Java DSA
 | [0371-sum-of-two-integers](https://github.com/Poorvaj-HV/Java/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorvaj-HV/Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Poorvaj-HV/Java/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Poorvaj-HV/Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Poorvaj-HV/Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Poorvaj-HV/Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
