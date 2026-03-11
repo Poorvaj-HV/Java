@@ -19,6 +19,7 @@ class Solution {
                         al.add(nums[l]);
                         hs.add(al);
                         k++;
+                        l--;
                     } else if(sum < target) {
                         k++;
                     } else {
