@@ -43,6 +43,7 @@ Java DSA
 | [0977-squares-of-a-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Poorvaj-HV/Java/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Poorvaj-HV/Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Poorvaj-HV/Java/tree/master/1480-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Poorvaj-HV/Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/Poorvaj-HV/Java/tree/master/1991-find-the-middle-index-in-array) |
@@ -66,6 +67,7 @@ Java DSA
 | [0389-find-the-difference](https://github.com/Poorvaj-HV/Java/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Poorvaj-HV/Java/tree/master/1207-unique-number-of-occurrences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -232,6 +234,7 @@ Java DSA
 | [0169-majority-element](https://github.com/Poorvaj-HV/Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Poorvaj-HV/Java/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poorvaj-HV/Java/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Matrix
 |  |
 | ------- |
