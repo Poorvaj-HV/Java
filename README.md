@@ -64,6 +64,7 @@ Java DSA
 | [0242-valid-anagram](https://github.com/Poorvaj-HV/Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Poorvaj-HV/Java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poorvaj-HV/Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Poorvaj-HV/Java/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -105,6 +106,7 @@ Java DSA
 | [0205-isomorphic-strings](https://github.com/Poorvaj-HV/Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Poorvaj-HV/Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Poorvaj-HV/Java/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Poorvaj-HV/Java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poorvaj-HV/Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Poorvaj-HV/Java/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/Poorvaj-HV/Java/tree/master/2351-first-letter-to-appear-twice) |
@@ -238,6 +240,7 @@ Java DSA
 | ------- |
 | [0169-majority-element](https://github.com/Poorvaj-HV/Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Poorvaj-HV/Java/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Poorvaj-HV/Java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poorvaj-HV/Java/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Poorvaj-HV/Java/tree/master/2351-first-letter-to-appear-twice) |
