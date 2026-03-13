@@ -1,0 +1,27 @@
+import java.util.*;
+class Solution {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter a String: ");
+        char[] a = sc.nextLine().toCharArray();
+        
+        int cap = 0, small = 0, digits = 0, space = 0, sp = 0, words = 0;
+        for(char x: a) {
+            if(x >= 65 && x <= 90) {
+                cap++;
+            } else if(x >= 97 && x <= 122) {
+                small++;
+            } else if(x >= 48 && x <= 57 ) {
+                digits++;
+            } else if(x == ' ') {
+                space++;
+            } else {
+                sp++;
+            }
+        }
+        
+        System.out.println("Caps: " + cap + " Small: " + small + " Digits: " + digits + " Spaces: " + space + " Special Chars: " + sp);
+        
+        System.out.println("Words : " + (space+1));
+    }
+}
