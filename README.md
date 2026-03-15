@@ -18,6 +18,7 @@ Java DSA
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Poorvaj-HV/Java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Poorvaj-HV/Java/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Poorvaj-HV/Java/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Poorvaj-HV/Java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Poorvaj-HV/Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0088-merge-sorted-array) |
@@ -187,6 +188,7 @@ Java DSA
 | ------- |
 | [0015-3sum](https://github.com/Poorvaj-HV/Java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Poorvaj-HV/Java/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Poorvaj-HV/Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Poorvaj-HV/Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Poorvaj-HV/Java/tree/master/0169-majority-element) |
