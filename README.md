@@ -116,6 +116,7 @@ Java DSA
 | [0387-first-unique-character-in-a-string](https://github.com/Poorvaj-HV/Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Poorvaj-HV/Java/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Poorvaj-HV/Java/tree/master/0412-fizz-buzz) |
+| [1446-consecutive-characters](https://github.com/Poorvaj-HV/Java/tree/master/1446-consecutive-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Poorvaj-HV/Java/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2351-first-letter-to-appear-twice](https://github.com/Poorvaj-HV/Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Poorvaj-HV/Java/tree/master/2819-remove-trailing-zeros-from-a-string) |
