@@ -31,7 +31,7 @@ class Solution {
         reverseArr(nums, pivot+1, n-1);
     }
 
-    public int[] reverseArr(int[] nums, int si, int ei) {
+    public void reverseArr(int[] nums, int si, int ei) {
         while(si < ei) {
             int temp = nums[si];
             nums[si] = nums[ei];
@@ -39,7 +39,5 @@ class Solution {
             si++;
             ei--;
         }
-
-        return nums;
     }
 }
