@@ -6,7 +6,7 @@ class Solution {
             hs.add(x);
         }
 
-        if(hs.size() >= 26) {
+        if(hs.size() == 26) {
             return true;
         }
 
