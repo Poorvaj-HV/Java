@@ -49,6 +49,7 @@ Java DSA
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Poorvaj-HV/Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Poorvaj-HV/Java/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/Poorvaj-HV/Java/tree/master/1539-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Poorvaj-HV/Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/Poorvaj-HV/Java/tree/master/1991-find-the-middle-index-in-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Poorvaj-HV/Java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -190,6 +191,7 @@ Java DSA
 | [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Poorvaj-HV/Java/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/Poorvaj-HV/Java/tree/master/1539-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
