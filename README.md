@@ -37,6 +37,7 @@ Java DSA
 | [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Poorvaj-HV/Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/Poorvaj-HV/Java/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -154,6 +155,7 @@ Java DSA
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Poorvaj-HV/Java/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/Poorvaj-HV/Java/tree/master/0334-increasing-triplet-subsequence) |
 ## Math
 |  |
 | ------- |
