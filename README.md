@@ -112,6 +112,7 @@ Java DSA
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Poorvaj-HV/Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poorvaj-HV/Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Poorvaj-HV/Java/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Poorvaj-HV/Java/tree/master/0205-isomorphic-strings) |
@@ -142,6 +143,7 @@ Java DSA
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Poorvaj-HV/Java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Poorvaj-HV/Java/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
