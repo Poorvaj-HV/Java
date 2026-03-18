@@ -18,6 +18,7 @@ Java DSA
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Poorvaj-HV/Java/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Poorvaj-HV/Java/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Poorvaj-HV/Java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Poorvaj-HV/Java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Poorvaj-HV/Java/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Poorvaj-HV/Java/tree/master/0066-plus-one) |
@@ -63,6 +64,7 @@ Java DSA
 | ------- |
 | [0001-two-sum](https://github.com/Poorvaj-HV/Java/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Poorvaj-HV/Java/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Poorvaj-HV/Java/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Poorvaj-HV/Java/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Poorvaj-HV/Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Poorvaj-HV/Java/tree/master/0169-majority-element) |
@@ -115,6 +117,7 @@ Java DSA
 | ------- |
 | [0020-valid-parentheses](https://github.com/Poorvaj-HV/Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poorvaj-HV/Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Poorvaj-HV/Java/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Poorvaj-HV/Java/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Poorvaj-HV/Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Poorvaj-HV/Java/tree/master/0242-valid-anagram) |
@@ -204,6 +207,7 @@ Java DSA
 | ------- |
 | [0015-3sum](https://github.com/Poorvaj-HV/Java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Poorvaj-HV/Java/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Poorvaj-HV/Java/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Poorvaj-HV/Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Poorvaj-HV/Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0088-merge-sorted-array) |
