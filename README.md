@@ -59,6 +59,7 @@ Java DSA
 | [1920-build-array-from-permutation](https://github.com/Poorvaj-HV/Java/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/Poorvaj-HV/Java/tree/master/1991-find-the-middle-index-in-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Poorvaj-HV/Java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Poorvaj-HV/Java/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3861-minimum-capacity-box](https://github.com/Poorvaj-HV/Java/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
