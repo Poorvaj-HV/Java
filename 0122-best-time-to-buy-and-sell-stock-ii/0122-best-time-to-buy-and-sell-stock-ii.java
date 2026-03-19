@@ -3,12 +3,9 @@ class Solution {
         int maxProfit = 0;
 
         for(int i=0; i<prices.length-1; i++) {
-            int profit = 0;
-
             if(prices[i] < prices[i+1]) {
-                profit = prices[i+1] - prices[i];
+                maxProfit += (prices[i+1] - prices[i]);
             }
-            maxProfit += profit;
         }
 
         return maxProfit;
