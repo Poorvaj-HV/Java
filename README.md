@@ -191,6 +191,7 @@ Java DSA
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Poorvaj-HV/Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Poorvaj-HV/Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Poorvaj-HV/Java/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
 | ------- |
