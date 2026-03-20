@@ -4,14 +4,6 @@ class Solution {
             return 0;
         }
 
-        int count = 0;
-        int i = 1000; 
-
-        while(i <= n) {
-            count++;
-            i++;
-        }
-
-        return count;
+        return n - 999;
     }
 }
