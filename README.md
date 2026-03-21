@@ -64,6 +64,7 @@ Java DSA
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Poorvaj-HV/Java/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3861-minimum-capacity-box](https://github.com/Poorvaj-HV/Java/tree/master/3861-minimum-capacity-box) |
+| [3866-first-unique-even-element](https://github.com/Poorvaj-HV/Java/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Java DSA
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Poorvaj-HV/Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Poorvaj-HV/Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
+| [3866-first-unique-even-element](https://github.com/Poorvaj-HV/Java/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -285,6 +287,7 @@ Java DSA
 | [0387-first-unique-character-in-a-string](https://github.com/Poorvaj-HV/Java/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Poorvaj-HV/Java/tree/master/2351-first-letter-to-appear-twice) |
+| [3866-first-unique-even-element](https://github.com/Poorvaj-HV/Java/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
 | ------- |
