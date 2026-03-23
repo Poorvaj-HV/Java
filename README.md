@@ -121,6 +121,7 @@ Java DSA
 | [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Poorvaj-HV/Java/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Java DSA
 | [0389-find-the-difference](https://github.com/Poorvaj-HV/Java/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Poorvaj-HV/Java/tree/master/0412-fizz-buzz) |
 | [1446-consecutive-characters](https://github.com/Poorvaj-HV/Java/tree/master/1446-consecutive-characters) |
+| [1768-merge-strings-alternately](https://github.com/Poorvaj-HV/Java/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Poorvaj-HV/Java/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Poorvaj-HV/Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Poorvaj-HV/Java/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
