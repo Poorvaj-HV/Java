@@ -192,6 +192,7 @@ Java DSA
 | [0877-stone-game](https://github.com/Poorvaj-HV/Java/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Poorvaj-HV/Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Poorvaj-HV/Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Poorvaj-HV/Java/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Poorvaj-HV/Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Poorvaj-HV/Java/tree/master/3870-count-commas-in-range) |
