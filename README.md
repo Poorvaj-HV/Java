@@ -58,6 +58,7 @@ Java DSA
 | [1480-running-sum-of-1d-array](https://github.com/Poorvaj-HV/Java/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Poorvaj-HV/Java/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/Poorvaj-HV/Java/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/Poorvaj-HV/Java/tree/master/1732-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Poorvaj-HV/Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Poorvaj-HV/Java/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/Poorvaj-HV/Java/tree/master/1991-find-the-middle-index-in-array) |
@@ -286,6 +287,7 @@ Java DSA
 | [0238-product-of-array-except-self](https://github.com/Poorvaj-HV/Java/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Poorvaj-HV/Java/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Poorvaj-HV/Java/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Poorvaj-HV/Java/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Poorvaj-HV/Java/tree/master/1991-find-the-middle-index-in-array) |
 ## Divide and Conquer
 |  |
