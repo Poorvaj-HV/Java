@@ -10,7 +10,7 @@ public class Solution {
 
         temp = headB;
         while(temp != null) {
-            if(hs.contains(temp)) {
+            if(hs.containsKey(temp)) {
                 return temp;
             }
             temp = temp.next;
