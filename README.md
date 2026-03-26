@@ -126,6 +126,7 @@ Java DSA
 | [0345-reverse-vowels-of-a-string](https://github.com/Poorvaj-HV/Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Poorvaj-HV/Java/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Poorvaj-HV/Java/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0908-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/Poorvaj-HV/Java/tree/master/0922-sort-array-by-parity-ii) |
@@ -276,6 +277,7 @@ Java DSA
 | [0206-reverse-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Poorvaj-HV/Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Bit Manipulation
