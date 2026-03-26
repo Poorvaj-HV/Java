@@ -47,6 +47,7 @@ Java DSA
 | [0485-max-consecutive-ones](https://github.com/Poorvaj-HV/Java/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Poorvaj-HV/Java/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorvaj-HV/Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Poorvaj-HV/Java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Poorvaj-HV/Java/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Poorvaj-HV/Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Poorvaj-HV/Java/tree/master/0877-stone-game) |
@@ -340,6 +341,7 @@ Java DSA
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Poorvaj-HV/Java/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Poorvaj-HV/Java/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
