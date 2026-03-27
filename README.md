@@ -65,6 +65,7 @@ Java DSA
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Poorvaj-HV/Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Poorvaj-HV/Java/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/Poorvaj-HV/Java/tree/master/1991-find-the-middle-index-in-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Poorvaj-HV/Java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Poorvaj-HV/Java/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
@@ -97,6 +98,7 @@ Java DSA
 | [1207-unique-number-of-occurrences](https://github.com/Poorvaj-HV/Java/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Poorvaj-HV/Java/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/Poorvaj-HV/Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3866-first-unique-even-element](https://github.com/Poorvaj-HV/Java/tree/master/3866-first-unique-even-element) |
