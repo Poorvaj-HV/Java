@@ -1,8 +1,7 @@
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
-        if(head == null || head.next == null) {
-            head = null;
-            return head;
+        if(head.next == null) {
+            return null;
         }
 
         ListNode prev = findMid(head);
