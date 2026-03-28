@@ -130,6 +130,7 @@ Java DSA
 | [0345-reverse-vowels-of-a-string](https://github.com/Poorvaj-HV/Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Poorvaj-HV/Java/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Poorvaj-HV/Java/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Poorvaj-HV/Java/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0908-middle-of-the-linked-list) |
@@ -153,6 +154,7 @@ Java DSA
 | [0389-find-the-difference](https://github.com/Poorvaj-HV/Java/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Poorvaj-HV/Java/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Poorvaj-HV/Java/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/Poorvaj-HV/Java/tree/master/0443-string-compression) |
 | [1446-consecutive-characters](https://github.com/Poorvaj-HV/Java/tree/master/1446-consecutive-characters) |
 | [1768-merge-strings-alternately](https://github.com/Poorvaj-HV/Java/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Poorvaj-HV/Java/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
