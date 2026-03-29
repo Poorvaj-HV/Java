@@ -9,7 +9,7 @@ class Solution {
             return false;
         }
 
-        if(l == 1 && n >= 0) {
+        if(l == 1 && n == 0) {
             return true;
         }
 
