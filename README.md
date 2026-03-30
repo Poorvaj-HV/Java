@@ -22,6 +22,7 @@ Java DSA
 | [0053-maximum-subarray](https://github.com/Poorvaj-HV/Java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Poorvaj-HV/Java/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Poorvaj-HV/Java/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Poorvaj-HV/Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Poorvaj-HV/Java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Poorvaj-HV/Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0088-merge-sorted-array) |
@@ -83,6 +84,7 @@ Java DSA
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poorvaj-HV/Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Poorvaj-HV/Java/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Poorvaj-HV/Java/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Poorvaj-HV/Java/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Poorvaj-HV/Java/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Poorvaj-HV/Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Poorvaj-HV/Java/tree/master/0169-majority-element) |
@@ -338,6 +340,7 @@ Java DSA
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Poorvaj-HV/Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Poorvaj-HV/Java/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Poorvaj-HV/Java/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
