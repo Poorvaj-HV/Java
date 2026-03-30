@@ -39,6 +39,7 @@ Java DSA
 | [0238-product-of-array-except-self](https://github.com/Poorvaj-HV/Java/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Poorvaj-HV/Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Poorvaj-HV/Java/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Poorvaj-HV/Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Poorvaj-HV/Java/tree/master/0334-increasing-triplet-subsequence) |
@@ -265,6 +266,7 @@ Java DSA
 | [0229-majority-element-ii](https://github.com/Poorvaj-HV/Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Poorvaj-HV/Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Poorvaj-HV/Java/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Poorvaj-HV/Java/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -377,4 +379,8 @@ Java DSA
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Poorvaj-HV/Java/tree/master/2427-number-of-common-factors) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Poorvaj-HV/Java/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
