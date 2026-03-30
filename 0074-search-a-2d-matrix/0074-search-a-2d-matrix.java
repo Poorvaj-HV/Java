@@ -6,7 +6,9 @@ class Solution {
         while(row < matrix.length && col >= 0) {
             if(matrix[row][col] == target) {
                 return true;
-            } else if(target < matrix[row][col]) {
+            }
+            
+            if(target < matrix[row][col]) {
                 col--;
             } else {
                 row++;
