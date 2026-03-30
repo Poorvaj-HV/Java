@@ -165,6 +165,7 @@ Java DSA
 | [2351-first-letter-to-appear-twice](https://github.com/Poorvaj-HV/Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Poorvaj-HV/Java/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Poorvaj-HV/Java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Poorvaj-HV/Java/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## String Matching
 |  |
 | ------- |
