@@ -39,6 +39,7 @@ Java DSA
 | [0219-contains-duplicate-ii](https://github.com/Poorvaj-HV/Java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Poorvaj-HV/Java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Poorvaj-HV/Java/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Poorvaj-HV/Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Poorvaj-HV/Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Poorvaj-HV/Java/tree/master/0274-h-index) |
@@ -248,6 +249,7 @@ Java DSA
 | [0069-sqrtx](https://github.com/Poorvaj-HV/Java/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Poorvaj-HV/Java/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poorvaj-HV/Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Poorvaj-HV/Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
@@ -328,6 +330,7 @@ Java DSA
 | [0053-maximum-subarray](https://github.com/Poorvaj-HV/Java/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Poorvaj-HV/Java/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Poorvaj-HV/Java/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Poorvaj-HV/Java/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -344,6 +347,7 @@ Java DSA
 | [0054-spiral-matrix](https://github.com/Poorvaj-HV/Java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Poorvaj-HV/Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Poorvaj-HV/Java/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Poorvaj-HV/Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/Poorvaj-HV/Java/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
