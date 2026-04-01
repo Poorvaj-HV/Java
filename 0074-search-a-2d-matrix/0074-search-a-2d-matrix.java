@@ -12,10 +12,10 @@ class Solution {
                 return true;
             }
             
-            if(target < matrix[row][col]) {
-                col--;
-            } else {
+            if(target > matrix[row][col]) {
                 row++;
+            } else {
+                col--;
             }
         }
 
