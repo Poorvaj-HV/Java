@@ -12,7 +12,7 @@ class Solution {
                 return true;
             }
             
-            if(target > matrix[row][col]) {
+            if(matrix[row][col] < target) {
                 row++;
             } else {
                 col--;
