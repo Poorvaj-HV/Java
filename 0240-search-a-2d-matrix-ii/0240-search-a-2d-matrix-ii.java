@@ -6,7 +6,7 @@ class Solution {
                 return true;
             } else if(matrix[i][j] < target) {
                 i++;
-            } else  {
+            } else if(matrix[i][j] > target) {
                 j--;
             }
         }
