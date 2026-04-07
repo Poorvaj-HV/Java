@@ -168,6 +168,7 @@ Java DSA
 | [0412-fizz-buzz](https://github.com/Poorvaj-HV/Java/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Poorvaj-HV/Java/tree/master/0443-string-compression) |
 | [1446-consecutive-characters](https://github.com/Poorvaj-HV/Java/tree/master/1446-consecutive-characters) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Poorvaj-HV/Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Poorvaj-HV/Java/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Poorvaj-HV/Java/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Poorvaj-HV/Java/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -243,6 +244,7 @@ Java DSA
 | [0203-remove-linked-list-elements](https://github.com/Poorvaj-HV/Java/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0234-palindrome-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Poorvaj-HV/Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -363,6 +365,7 @@ Java DSA
 | [0054-spiral-matrix](https://github.com/Poorvaj-HV/Java/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Poorvaj-HV/Java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Poorvaj-HV/Java/tree/master/0412-fizz-buzz) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Poorvaj-HV/Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Poorvaj-HV/Java/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
