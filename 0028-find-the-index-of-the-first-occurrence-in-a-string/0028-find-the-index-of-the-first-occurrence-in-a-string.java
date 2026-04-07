@@ -4,13 +4,28 @@ class Solution {
             return 0;
         }
 
-        for(int i=0; i<=haystack.length()-needle.length(); i++) {
-            int j=0;
-            while(j < needle.length() && haystack.charAt(i+j) == needle.charAt(j)) {
-                j++;
-            }
-            if(j == needle.length()) {
-                return i;
+        int idx = -1;
+
+        int l = 0, r = 0;
+        while(r < haystack.length()) {
+            if(haystack.charAt(r) == needle.charAt(l)) {
+                if(idx == -1) {
+                    idx = r;
+                }
+                l++;
+
+                if(l == needle.length()) {
+                    return idx;
+                }
+                r++;
+            } else {
+                if(idx != -1) {
+                    r = idx + 1;
+                } else {
+                    r++;
+                }
+                idx = -1;
+                l = 0;
             }
         }
 
