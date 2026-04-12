@@ -168,6 +168,7 @@ Java DSA
 | [0392-is-subsequence](https://github.com/Poorvaj-HV/Java/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Poorvaj-HV/Java/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Poorvaj-HV/Java/tree/master/0443-string-compression) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Poorvaj-HV/Java/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1446-consecutive-characters](https://github.com/Poorvaj-HV/Java/tree/master/1446-consecutive-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Poorvaj-HV/Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Poorvaj-HV/Java/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -193,6 +194,7 @@ Java DSA
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Poorvaj-HV/Java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0392-is-subsequence](https://github.com/Poorvaj-HV/Java/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Poorvaj-HV/Java/tree/master/0877-stone-game) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Poorvaj-HV/Java/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Stack
 |  |
 | ------- |
