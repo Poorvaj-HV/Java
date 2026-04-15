@@ -14,4 +14,4 @@ class Solution:
             else:
                 j += 1
                 
-        return count;
+        return count
