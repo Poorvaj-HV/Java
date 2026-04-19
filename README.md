@@ -80,6 +80,7 @@ Java DSA
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Poorvaj-HV/Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Poorvaj-HV/Java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Poorvaj-HV/Java/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2951-find-the-peaks](https://github.com/Poorvaj-HV/Java/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Poorvaj-HV/Java/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Poorvaj-HV/Java/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -413,6 +414,7 @@ Java DSA
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Poorvaj-HV/Java/tree/master/2427-number-of-common-factors) |
+| [2951-find-the-peaks](https://github.com/Poorvaj-HV/Java/tree/master/2951-find-the-peaks) |
 ## Counting Sort
 |  |
 | ------- |
