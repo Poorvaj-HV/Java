@@ -185,6 +185,7 @@ Java DSA
 | [2351-first-letter-to-appear-twice](https://github.com/Poorvaj-HV/Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Poorvaj-HV/Java/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Poorvaj-HV/Java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2833-furthest-point-from-origin](https://github.com/Poorvaj-HV/Java/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Poorvaj-HV/Java/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## String Matching
 |  |
@@ -364,6 +365,7 @@ Java DSA
 | [1394-find-lucky-integer-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Poorvaj-HV/Java/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2351-first-letter-to-appear-twice](https://github.com/Poorvaj-HV/Java/tree/master/2351-first-letter-to-appear-twice) |
+| [2833-furthest-point-from-origin](https://github.com/Poorvaj-HV/Java/tree/master/2833-furthest-point-from-origin) |
 | [3866-first-unique-even-element](https://github.com/Poorvaj-HV/Java/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
