@@ -237,6 +237,7 @@ Java DSA
 | [0202-happy-number](https://github.com/Poorvaj-HV/Java/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Poorvaj-HV/Java/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Poorvaj-HV/Java/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Poorvaj-HV/Java/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Poorvaj-HV/Java/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Poorvaj-HV/Java/tree/master/0412-fizz-buzz) |
