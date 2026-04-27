@@ -37,6 +37,7 @@ Java DSA
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poorvaj-HV/Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Poorvaj-HV/Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Poorvaj-HV/Java/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Poorvaj-HV/Java/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Poorvaj-HV/Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Poorvaj-HV/Java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Poorvaj-HV/Java/tree/master/0229-majority-element-ii) |
@@ -234,6 +235,7 @@ Java DSA
 | [0069-sqrtx](https://github.com/Poorvaj-HV/Java/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Poorvaj-HV/Java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Poorvaj-HV/Java/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Poorvaj-HV/Java/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Poorvaj-HV/Java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Poorvaj-HV/Java/tree/master/0371-sum-of-two-integers) |
@@ -387,6 +389,7 @@ Java DSA
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Poorvaj-HV/Java/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Poorvaj-HV/Java/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/Poorvaj-HV/Java/tree/master/2427-number-of-common-factors) |
 ## Game Theory
@@ -415,6 +418,7 @@ Java DSA
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Poorvaj-HV/Java/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/Poorvaj-HV/Java/tree/master/2427-number-of-common-factors) |
 | [2951-find-the-peaks](https://github.com/Poorvaj-HV/Java/tree/master/2951-find-the-peaks) |
 ## Counting Sort
