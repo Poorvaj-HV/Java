@@ -449,6 +449,7 @@ Java DSA
 | [0619-biggest-single-number](https://github.com/Poorvaj-HV/Java/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Poorvaj-HV/Java/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/Poorvaj-HV/Java/tree/master/1045-customers-who-bought-all-products) |
+| [1070-product-sales-analysis-iii](https://github.com/Poorvaj-HV/Java/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Poorvaj-HV/Java/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Poorvaj-HV/Java/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Poorvaj-HV/Java/tree/master/1211-queries-quality-and-percentage) |
