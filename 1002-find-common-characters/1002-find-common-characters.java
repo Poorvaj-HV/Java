@@ -1,6 +1,5 @@
 class Solution {
     public List<String> commonChars(String[] words) {
-        int n = words.length;
         int[] minFreq = new int[26];
         Arrays.fill(minFreq, Integer.MAX_VALUE);
 
