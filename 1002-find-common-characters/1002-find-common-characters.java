@@ -19,7 +19,7 @@ class Solution {
         List<String> ans = new ArrayList<>();
         for(int i=0; i<26; i++) {
             while(minFreq[i] > 0) {
-                ans.add(Character.toString(i + 'a'));
+                ans.add(Character.toString((char)i + 'a'));
                 minFreq[i]--;
             }
         }
