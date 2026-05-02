@@ -66,6 +66,7 @@ Java DSA
 | [0905-sort-array-by-parity](https://github.com/Poorvaj-HV/Java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Poorvaj-HV/Java/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/Poorvaj-HV/Java/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Poorvaj-HV/Java/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Poorvaj-HV/Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -115,6 +116,7 @@ Java DSA
 | [0442-find-all-duplicates-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0859-buddy-strings](https://github.com/Poorvaj-HV/Java/tree/master/0859-buddy-strings) |
+| [1002-find-common-characters](https://github.com/Poorvaj-HV/Java/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Poorvaj-HV/Java/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Poorvaj-HV/Java/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -181,6 +183,7 @@ Java DSA
 | [0412-fizz-buzz](https://github.com/Poorvaj-HV/Java/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Poorvaj-HV/Java/tree/master/0443-string-compression) |
 | [0859-buddy-strings](https://github.com/Poorvaj-HV/Java/tree/master/0859-buddy-strings) |
+| [1002-find-common-characters](https://github.com/Poorvaj-HV/Java/tree/master/1002-find-common-characters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Poorvaj-HV/Java/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1446-consecutive-characters](https://github.com/Poorvaj-HV/Java/tree/master/1446-consecutive-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Poorvaj-HV/Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
