@@ -182,6 +182,7 @@ Java DSA
 | [0392-is-subsequence](https://github.com/Poorvaj-HV/Java/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Poorvaj-HV/Java/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Poorvaj-HV/Java/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/Poorvaj-HV/Java/tree/master/0796-rotate-string) |
 | [0859-buddy-strings](https://github.com/Poorvaj-HV/Java/tree/master/0859-buddy-strings) |
 | [1002-find-common-characters](https://github.com/Poorvaj-HV/Java/tree/master/1002-find-common-characters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Poorvaj-HV/Java/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -201,6 +202,7 @@ Java DSA
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Poorvaj-HV/Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Poorvaj-HV/Java/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
