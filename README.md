@@ -460,6 +460,7 @@ Java DSA
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Poorvaj-HV/Java/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Poorvaj-HV/Java/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Poorvaj-HV/Java/tree/master/1211-queries-quality-and-percentage) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Poorvaj-HV/Java/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Poorvaj-HV/Java/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/Poorvaj-HV/Java/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Poorvaj-HV/Java/tree/master/1757-recyclable-and-low-fat-products) |
