@@ -82,6 +82,7 @@ Java DSA
 | [1991-find-the-middle-index-in-array](https://github.com/Poorvaj-HV/Java/tree/master/1991-find-the-middle-index-in-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Poorvaj-HV/Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Poorvaj-HV/Java/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Poorvaj-HV/Java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Poorvaj-HV/Java/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2951-find-the-peaks](https://github.com/Poorvaj-HV/Java/tree/master/2951-find-the-peaks) |
@@ -217,6 +218,7 @@ Java DSA
 | [0392-is-subsequence](https://github.com/Poorvaj-HV/Java/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Poorvaj-HV/Java/tree/master/0877-stone-game) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Poorvaj-HV/Java/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Poorvaj-HV/Java/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Stack
 |  |
 | ------- |
