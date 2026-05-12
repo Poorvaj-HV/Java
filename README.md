@@ -82,6 +82,7 @@ Java DSA
 | [1991-find-the-middle-index-in-array](https://github.com/Poorvaj-HV/Java/tree/master/1991-find-the-middle-index-in-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Poorvaj-HV/Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Poorvaj-HV/Java/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Poorvaj-HV/Java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Poorvaj-HV/Java/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -411,6 +412,7 @@ Java DSA
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Poorvaj-HV/Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Poorvaj-HV/Java/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/Poorvaj-HV/Java/tree/master/1920-build-array-from-permutation) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/2553-separate-the-digits-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
