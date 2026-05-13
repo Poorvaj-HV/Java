@@ -265,6 +265,7 @@ Java DSA
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Poorvaj-HV/Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Poorvaj-HV/Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Poorvaj-HV/Java/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Poorvaj-HV/Java/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2427-number-of-common-factors](https://github.com/Poorvaj-HV/Java/tree/master/2427-number-of-common-factors) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Poorvaj-HV/Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -412,6 +413,7 @@ Java DSA
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Poorvaj-HV/Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Poorvaj-HV/Java/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/Poorvaj-HV/Java/tree/master/1920-build-array-from-permutation) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Poorvaj-HV/Java/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/2553-separate-the-digits-in-an-array) |
 ## Number Theory
 |  |
