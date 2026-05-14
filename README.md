@@ -248,6 +248,7 @@ Java DSA
 | [0002-add-two-numbers](https://github.com/Poorvaj-HV/Java/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Poorvaj-HV/Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Poorvaj-HV/Java/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Poorvaj-HV/Java/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Poorvaj-HV/Java/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Poorvaj-HV/Java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Poorvaj-HV/Java/tree/master/0069-sqrtx) |
@@ -358,6 +359,7 @@ Java DSA
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Poorvaj-HV/Java/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Poorvaj-HV/Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Poorvaj-HV/Java/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Poorvaj-HV/Java/tree/master/0260-single-number-iii) |
