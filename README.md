@@ -71,6 +71,7 @@ Java DSA
 | [1002-find-common-characters](https://github.com/Poorvaj-HV/Java/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Poorvaj-HV/Java/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Poorvaj-HV/Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1345-jump-game-iv](https://github.com/Poorvaj-HV/Java/tree/master/1345-jump-game-iv) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Poorvaj-HV/Java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -124,6 +125,7 @@ Java DSA
 | [0859-buddy-strings](https://github.com/Poorvaj-HV/Java/tree/master/0859-buddy-strings) |
 | [1002-find-common-characters](https://github.com/Poorvaj-HV/Java/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Poorvaj-HV/Java/tree/master/1207-unique-number-of-occurrences) |
+| [1345-jump-game-iv](https://github.com/Poorvaj-HV/Java/tree/master/1345-jump-game-iv) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Poorvaj-HV/Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -489,4 +491,8 @@ Java DSA
 | [1757-recyclable-and-low-fat-products](https://github.com/Poorvaj-HV/Java/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Poorvaj-HV/Java/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Poorvaj-HV/Java/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1345-jump-game-iv](https://github.com/Poorvaj-HV/Java/tree/master/1345-jump-game-iv) |
 <!---LeetCode Topics End-->
