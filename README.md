@@ -93,6 +93,7 @@ Java DSA
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Poorvaj-HV/Java/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2951-find-the-peaks](https://github.com/Poorvaj-HV/Java/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Poorvaj-HV/Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Poorvaj-HV/Java/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Poorvaj-HV/Java/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Poorvaj-HV/Java/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -135,6 +136,7 @@ Java DSA
 | [2540-minimum-common-value](https://github.com/Poorvaj-HV/Java/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Poorvaj-HV/Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Poorvaj-HV/Java/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3866-first-unique-even-element](https://github.com/Poorvaj-HV/Java/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -212,6 +214,7 @@ Java DSA
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Poorvaj-HV/Java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/Poorvaj-HV/Java/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Poorvaj-HV/Java/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Poorvaj-HV/Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Poorvaj-HV/Java/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## String Matching
 |  |
@@ -502,4 +505,8 @@ Java DSA
 |  |
 | ------- |
 | [1345-jump-game-iv](https://github.com/Poorvaj-HV/Java/tree/master/1345-jump-game-iv) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Poorvaj-HV/Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
