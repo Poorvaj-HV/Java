@@ -3,7 +3,7 @@ class Solution {
         if(s.length() != t.length()) {
             return false;
         }
-
+        
         char[] s1 = s.toCharArray();
         char[] s2 = t.toCharArray();
         Arrays.sort(s1);
