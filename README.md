@@ -504,6 +504,7 @@ Java DSA
 | [1148-article-views-i](https://github.com/Poorvaj-HV/Java/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Poorvaj-HV/Java/tree/master/1211-queries-quality-and-percentage) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Poorvaj-HV/Java/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1517-find-users-with-valid-e-mails](https://github.com/Poorvaj-HV/Java/tree/master/1517-find-users-with-valid-e-mails) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Poorvaj-HV/Java/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/Poorvaj-HV/Java/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Poorvaj-HV/Java/tree/master/1683-invalid-tweets) |
