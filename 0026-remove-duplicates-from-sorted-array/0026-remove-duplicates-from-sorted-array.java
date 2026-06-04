@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
         int count = 0;
 
-        int left = 0, right = 1, idx;
+        int left = 0, right = 1;
         while(right < n) {
             if(nums[left] != nums[right]) {
                 left++;
