@@ -104,6 +104,7 @@ Java DSA
 | ------- |
 | [0001-two-sum](https://github.com/Poorvaj-HV/Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poorvaj-HV/Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Poorvaj-HV/Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Poorvaj-HV/Java/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Poorvaj-HV/Java/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Poorvaj-HV/Java/tree/master/0049-group-anagrams) |
@@ -186,6 +187,7 @@ Java DSA
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poorvaj-HV/Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Poorvaj-HV/Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Poorvaj-HV/Java/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Poorvaj-HV/Java/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Poorvaj-HV/Java/tree/master/0022-generate-parentheses) |
@@ -269,6 +271,7 @@ Java DSA
 | [0002-add-two-numbers](https://github.com/Poorvaj-HV/Java/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Poorvaj-HV/Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Poorvaj-HV/Java/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Poorvaj-HV/Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Poorvaj-HV/Java/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Poorvaj-HV/Java/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Poorvaj-HV/Java/tree/master/0050-powx-n) |
