@@ -294,6 +294,7 @@ Java DSA
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Poorvaj-HV/Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Poorvaj-HV/Java/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Poorvaj-HV/Java/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2413-smallest-even-multiple](https://github.com/Poorvaj-HV/Java/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Poorvaj-HV/Java/tree/master/2427-number-of-common-factors) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Poorvaj-HV/Java/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -456,6 +457,7 @@ Java DSA
 | ------- |
 | [0204-count-primes](https://github.com/Poorvaj-HV/Java/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Poorvaj-HV/Java/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/Poorvaj-HV/Java/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Poorvaj-HV/Java/tree/master/2427-number-of-common-factors) |
 ## Game Theory
 |  |
