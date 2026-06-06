@@ -204,6 +204,7 @@ Java DSA
 | [0389-find-the-difference](https://github.com/Poorvaj-HV/Java/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Poorvaj-HV/Java/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Poorvaj-HV/Java/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Poorvaj-HV/Java/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Poorvaj-HV/Java/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Poorvaj-HV/Java/tree/master/0796-rotate-string) |
 | [0859-buddy-strings](https://github.com/Poorvaj-HV/Java/tree/master/0859-buddy-strings) |
@@ -285,6 +286,7 @@ Java DSA
 | [0268-missing-number](https://github.com/Poorvaj-HV/Java/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Poorvaj-HV/Java/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Poorvaj-HV/Java/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Poorvaj-HV/Java/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Poorvaj-HV/Java/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorvaj-HV/Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Poorvaj-HV/Java/tree/master/0877-stone-game) |
@@ -443,6 +445,7 @@ Java DSA
 | [0054-spiral-matrix](https://github.com/Poorvaj-HV/Java/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Poorvaj-HV/Java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Poorvaj-HV/Java/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Poorvaj-HV/Java/tree/master/0415-add-strings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Poorvaj-HV/Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Poorvaj-HV/Java/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/Poorvaj-HV/Java/tree/master/1920-build-array-from-permutation) |
