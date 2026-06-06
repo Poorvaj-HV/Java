@@ -87,6 +87,7 @@ Java DSA
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Poorvaj-HV/Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/Poorvaj-HV/Java/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/2553-separate-the-digits-in-an-array) |
+| [2614-prime-in-diagonal](https://github.com/Poorvaj-HV/Java/tree/master/2614-prime-in-diagonal) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Poorvaj-HV/Java/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Poorvaj-HV/Java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -296,6 +297,7 @@ Java DSA
 | [2180-count-integers-with-even-digit-sum](https://github.com/Poorvaj-HV/Java/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/Poorvaj-HV/Java/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Poorvaj-HV/Java/tree/master/2427-number-of-common-factors) |
+| [2614-prime-in-diagonal](https://github.com/Poorvaj-HV/Java/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Poorvaj-HV/Java/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Poorvaj-HV/Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -439,6 +441,7 @@ Java DSA
 | [0240-search-a-2d-matrix-ii](https://github.com/Poorvaj-HV/Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/Poorvaj-HV/Java/tree/master/1672-richest-customer-wealth) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Poorvaj-HV/Java/tree/master/1914-cyclically-rotating-a-grid) |
+| [2614-prime-in-diagonal](https://github.com/Poorvaj-HV/Java/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -459,6 +462,7 @@ Java DSA
 | [0258-add-digits](https://github.com/Poorvaj-HV/Java/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Poorvaj-HV/Java/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Poorvaj-HV/Java/tree/master/2427-number-of-common-factors) |
+| [2614-prime-in-diagonal](https://github.com/Poorvaj-HV/Java/tree/master/2614-prime-in-diagonal) |
 ## Game Theory
 |  |
 | ------- |
