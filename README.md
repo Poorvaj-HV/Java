@@ -138,6 +138,7 @@ Java DSA
 | [2351-first-letter-to-appear-twice](https://github.com/Poorvaj-HV/Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/Poorvaj-HV/Java/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Poorvaj-HV/Java/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Poorvaj-HV/Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Poorvaj-HV/Java/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -301,6 +302,7 @@ Java DSA
 | [2427-number-of-common-factors](https://github.com/Poorvaj-HV/Java/tree/master/2427-number-of-common-factors) |
 | [2544-alternating-digit-sum](https://github.com/Poorvaj-HV/Java/tree/master/2544-alternating-digit-sum) |
 | [2614-prime-in-diagonal](https://github.com/Poorvaj-HV/Java/tree/master/2614-prime-in-diagonal) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Poorvaj-HV/Java/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/Poorvaj-HV/Java/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Poorvaj-HV/Java/tree/master/3232-find-if-digit-game-can-be-won) |
