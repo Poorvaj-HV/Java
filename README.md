@@ -297,6 +297,7 @@ Java DSA
 | [2180-count-integers-with-even-digit-sum](https://github.com/Poorvaj-HV/Java/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/Poorvaj-HV/Java/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Poorvaj-HV/Java/tree/master/2427-number-of-common-factors) |
+| [2544-alternating-digit-sum](https://github.com/Poorvaj-HV/Java/tree/master/2544-alternating-digit-sum) |
 | [2614-prime-in-diagonal](https://github.com/Poorvaj-HV/Java/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Poorvaj-HV/Java/tree/master/3232-find-if-digit-game-can-be-won) |
