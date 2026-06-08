@@ -300,6 +300,7 @@ Java DSA
 | [0728-self-dividing-numbers](https://github.com/Poorvaj-HV/Java/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Poorvaj-HV/Java/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Poorvaj-HV/Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Poorvaj-HV/Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Poorvaj-HV/Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Poorvaj-HV/Java/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Poorvaj-HV/Java/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -416,6 +417,7 @@ Java DSA
 | [0371-sum-of-two-integers](https://github.com/Poorvaj-HV/Java/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Poorvaj-HV/Java/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Poorvaj-HV/Java/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Poorvaj-HV/Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/Poorvaj-HV/Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Prefix Sum
