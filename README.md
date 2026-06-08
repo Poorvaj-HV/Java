@@ -60,6 +60,7 @@ Java DSA
 | [0605-can-place-flowers](https://github.com/Poorvaj-HV/Java/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorvaj-HV/Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Poorvaj-HV/Java/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Poorvaj-HV/Java/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Poorvaj-HV/Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Poorvaj-HV/Java/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Poorvaj-HV/Java/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -129,6 +130,7 @@ Java DSA
 | [0389-find-the-difference](https://github.com/Poorvaj-HV/Java/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Poorvaj-HV/Java/tree/master/0645-set-mismatch) |
 | [0859-buddy-strings](https://github.com/Poorvaj-HV/Java/tree/master/0859-buddy-strings) |
 | [1002-find-common-characters](https://github.com/Poorvaj-HV/Java/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Poorvaj-HV/Java/tree/master/1207-unique-number-of-occurrences) |
@@ -366,6 +368,7 @@ Java DSA
 | [0442-find-all-duplicates-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Poorvaj-HV/Java/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorvaj-HV/Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Poorvaj-HV/Java/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Poorvaj-HV/Java/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Poorvaj-HV/Java/tree/master/0922-sort-array-by-parity-ii) |
@@ -412,6 +415,7 @@ Java DSA
 | [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Poorvaj-HV/Java/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Poorvaj-HV/Java/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Poorvaj-HV/Java/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/Poorvaj-HV/Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Prefix Sum
