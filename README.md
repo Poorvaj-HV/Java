@@ -66,6 +66,7 @@ Java DSA
 | [0860-lemonade-change](https://github.com/Poorvaj-HV/Java/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Poorvaj-HV/Java/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Poorvaj-HV/Java/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Poorvaj-HV/Java/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Poorvaj-HV/Java/tree/master/1002-find-common-characters) |
@@ -366,6 +367,7 @@ Java DSA
 | [0455-assign-cookies](https://github.com/Poorvaj-HV/Java/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorvaj-HV/Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Poorvaj-HV/Java/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Poorvaj-HV/Java/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -428,6 +430,7 @@ Java DSA
 | [0148-sort-list](https://github.com/Poorvaj-HV/Java/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Poorvaj-HV/Java/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Poorvaj-HV/Java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -489,12 +492,14 @@ Java DSA
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Poorvaj-HV/Java/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Poorvaj-HV/Java/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0912-sort-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -505,6 +510,7 @@ Java DSA
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Poorvaj-HV/Java/tree/master/0274-h-index) |
+| [0912-sort-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0912-sort-an-array) |
 ## Database
 |  |
 | ------- |
@@ -541,4 +547,12 @@ Java DSA
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Poorvaj-HV/Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
