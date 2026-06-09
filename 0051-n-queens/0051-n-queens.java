@@ -1,7 +1,7 @@
 class Solution {
-    List<List<String>> nQueens = new ArrayList<>();
+    List<List<String>> nQueens;
     public List<List<String>> solveNQueens(int n) {
-        // nQueens = new ArrayList<>();
+        nQueens = new ArrayList<>();
 
         char[][] board = new char[n][n];
         for(int i=0; i<n; i++) {
