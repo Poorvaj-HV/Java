@@ -12,10 +12,10 @@ class Solution {
 
         StringBuilder sb = new StringBuilder();
         while(!st.isEmpty()) {
-            sb.insert(0, st.peek());
+            sb.append(st.peek());
             st.pop();
         }
 
-        return sb.toString();
+        return sb.reverse().toString();
     }
 }
