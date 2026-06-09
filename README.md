@@ -225,6 +225,7 @@ Java DSA
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Poorvaj-HV/Java/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Poorvaj-HV/Java/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Poorvaj-HV/Java/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/Poorvaj-HV/Java/tree/master/2390-removing-stars-from-a-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Poorvaj-HV/Java/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Poorvaj-HV/Java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/Poorvaj-HV/Java/tree/master/2833-furthest-point-from-origin) |
@@ -258,6 +259,7 @@ Java DSA
 | [0042-trapping-rain-water](https://github.com/Poorvaj-HV/Java/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Poorvaj-HV/Java/tree/master/0445-add-two-numbers-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/Poorvaj-HV/Java/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -472,6 +474,7 @@ Java DSA
 | [1914-cyclically-rotating-a-grid](https://github.com/Poorvaj-HV/Java/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/Poorvaj-HV/Java/tree/master/1920-build-array-from-permutation) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Poorvaj-HV/Java/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2390-removing-stars-from-a-string](https://github.com/Poorvaj-HV/Java/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/2553-separate-the-digits-in-an-array) |
 ## Number Theory
 |  |
