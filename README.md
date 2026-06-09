@@ -20,6 +20,7 @@ Java DSA
 | [0041-first-missing-positive](https://github.com/Poorvaj-HV/Java/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Poorvaj-HV/Java/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Poorvaj-HV/Java/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Poorvaj-HV/Java/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Poorvaj-HV/Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Poorvaj-HV/Java/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Poorvaj-HV/Java/tree/master/0056-merge-intervals) |
@@ -383,6 +384,7 @@ Java DSA
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Poorvaj-HV/Java/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Poorvaj-HV/Java/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Poorvaj-HV/Java/tree/master/0052-n-queens-ii) |
 ## Linked List
 |  |
