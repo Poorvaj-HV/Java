@@ -143,6 +143,7 @@ Java DSA
 | [2351-first-letter-to-appear-twice](https://github.com/Poorvaj-HV/Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/Poorvaj-HV/Java/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2716-minimize-string-length](https://github.com/Poorvaj-HV/Java/tree/master/2716-minimize-string-length) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Poorvaj-HV/Java/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Poorvaj-HV/Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -228,6 +229,7 @@ Java DSA
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Poorvaj-HV/Java/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Poorvaj-HV/Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Poorvaj-HV/Java/tree/master/2390-removing-stars-from-a-string) |
+| [2716-minimize-string-length](https://github.com/Poorvaj-HV/Java/tree/master/2716-minimize-string-length) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Poorvaj-HV/Java/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Poorvaj-HV/Java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/Poorvaj-HV/Java/tree/master/2833-furthest-point-from-origin) |
