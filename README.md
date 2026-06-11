@@ -98,6 +98,7 @@ Java DSA
 | [2951-find-the-peaks](https://github.com/Poorvaj-HV/Java/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Poorvaj-HV/Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3046-split-the-array](https://github.com/Poorvaj-HV/Java/tree/master/3046-split-the-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Poorvaj-HV/Java/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Poorvaj-HV/Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Poorvaj-HV/Java/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
@@ -148,6 +149,7 @@ Java DSA
 | [2729-check-if-the-number-is-fascinating](https://github.com/Poorvaj-HV/Java/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Poorvaj-HV/Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3046-split-the-array](https://github.com/Poorvaj-HV/Java/tree/master/3046-split-the-array) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Poorvaj-HV/Java/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Poorvaj-HV/Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Poorvaj-HV/Java/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -459,6 +461,7 @@ Java DSA
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Poorvaj-HV/Java/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Poorvaj-HV/Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/Poorvaj-HV/Java/tree/master/2833-furthest-point-from-origin) |
+| [3046-split-the-array](https://github.com/Poorvaj-HV/Java/tree/master/3046-split-the-array) |
 | [3866-first-unique-even-element](https://github.com/Poorvaj-HV/Java/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
