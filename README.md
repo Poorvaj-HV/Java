@@ -62,6 +62,7 @@ Java DSA
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorvaj-HV/Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Poorvaj-HV/Java/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Poorvaj-HV/Java/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/Poorvaj-HV/Java/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Poorvaj-HV/Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Poorvaj-HV/Java/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Poorvaj-HV/Java/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -266,6 +267,7 @@ Java DSA
 | [0042-trapping-rain-water](https://github.com/Poorvaj-HV/Java/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Poorvaj-HV/Java/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/Poorvaj-HV/Java/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Poorvaj-HV/Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Poorvaj-HV/Java/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -481,6 +483,7 @@ Java DSA
 | [0258-add-digits](https://github.com/Poorvaj-HV/Java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Poorvaj-HV/Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Poorvaj-HV/Java/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Poorvaj-HV/Java/tree/master/0682-baseball-game) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Poorvaj-HV/Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Poorvaj-HV/Java/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/Poorvaj-HV/Java/tree/master/1920-build-array-from-permutation) |
