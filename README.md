@@ -60,6 +60,7 @@ Java DSA
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Poorvaj-HV/Java/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Poorvaj-HV/Java/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Poorvaj-HV/Java/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Poorvaj-HV/Java/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorvaj-HV/Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Poorvaj-HV/Java/tree/master/0643-maximum-average-subarray-i) |
@@ -137,6 +138,7 @@ Java DSA
 | [0389-find-the-difference](https://github.com/Poorvaj-HV/Java/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Poorvaj-HV/Java/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Poorvaj-HV/Java/tree/master/0645-set-mismatch) |
 | [0859-buddy-strings](https://github.com/Poorvaj-HV/Java/tree/master/0859-buddy-strings) |
 | [1002-find-common-characters](https://github.com/Poorvaj-HV/Java/tree/master/1002-find-common-characters) |
@@ -270,6 +272,7 @@ Java DSA
 | [0042-trapping-rain-water](https://github.com/Poorvaj-HV/Java/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Poorvaj-HV/Java/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Poorvaj-HV/Java/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Poorvaj-HV/Java/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Poorvaj-HV/Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Poorvaj-HV/Java/tree/master/2390-removing-stars-from-a-string) |
@@ -277,6 +280,7 @@ Java DSA
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Poorvaj-HV/Java/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Poorvaj-HV/Java/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
