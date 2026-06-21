@@ -336,6 +336,7 @@ Java DSA
 | [3232-find-if-digit-game-can-be-won](https://github.com/Poorvaj-HV/Java/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Poorvaj-HV/Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Poorvaj-HV/Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Poorvaj-HV/Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Poorvaj-HV/Java/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
@@ -513,6 +514,7 @@ Java DSA
 | [2413-smallest-even-multiple](https://github.com/Poorvaj-HV/Java/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Poorvaj-HV/Java/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/Poorvaj-HV/Java/tree/master/2614-prime-in-diagonal) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Poorvaj-HV/Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Game Theory
 |  |
 | ------- |
