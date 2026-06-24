@@ -79,6 +79,7 @@ Java DSA
 | [1207-unique-number-of-occurrences](https://github.com/Poorvaj-HV/Java/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Poorvaj-HV/Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1345-jump-game-iv](https://github.com/Poorvaj-HV/Java/tree/master/1345-jump-game-iv) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Poorvaj-HV/Java/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Poorvaj-HV/Java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -277,6 +278,7 @@ Java DSA
 | [0496-next-greater-element-i](https://github.com/Poorvaj-HV/Java/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Poorvaj-HV/Java/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Poorvaj-HV/Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Poorvaj-HV/Java/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2390-removing-stars-from-a-string](https://github.com/Poorvaj-HV/Java/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -605,4 +607,5 @@ Java DSA
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Poorvaj-HV/Java/tree/master/0155-min-stack) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Poorvaj-HV/Java/tree/master/1381-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
