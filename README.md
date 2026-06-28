@@ -24,6 +24,7 @@ Java DSA
 | [0053-maximum-subarray](https://github.com/Poorvaj-HV/Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Poorvaj-HV/Java/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Poorvaj-HV/Java/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Poorvaj-HV/Java/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Poorvaj-HV/Java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Poorvaj-HV/Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Poorvaj-HV/Java/tree/master/0074-search-a-2d-matrix) |
@@ -486,6 +487,7 @@ Java DSA
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Poorvaj-HV/Java/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Poorvaj-HV/Java/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Poorvaj-HV/Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Poorvaj-HV/Java/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Poorvaj-HV/Java/tree/master/0240-search-a-2d-matrix-ii) |
@@ -497,6 +499,7 @@ Java DSA
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Poorvaj-HV/Java/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Poorvaj-HV/Java/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Poorvaj-HV/Java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Poorvaj-HV/Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Poorvaj-HV/Java/tree/master/0415-add-strings) |
