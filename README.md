@@ -275,6 +275,7 @@ Java DSA
 | [0020-valid-parentheses](https://github.com/Poorvaj-HV/Java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Poorvaj-HV/Java/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Poorvaj-HV/Java/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Poorvaj-HV/Java/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Poorvaj-HV/Java/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Poorvaj-HV/Java/tree/master/0496-next-greater-element-i) |
@@ -530,6 +531,7 @@ Java DSA
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Poorvaj-HV/Java/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poorvaj-HV/Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
@@ -613,6 +615,7 @@ Java DSA
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Poorvaj-HV/Java/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Poorvaj-HV/Java/tree/master/0225-implement-stack-using-queues) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Poorvaj-HV/Java/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Brainteaser
 |  |
