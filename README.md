@@ -266,6 +266,7 @@ Java DSA
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Poorvaj-HV/Java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0392-is-subsequence](https://github.com/Poorvaj-HV/Java/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Poorvaj-HV/Java/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Poorvaj-HV/Java/tree/master/1025-divisor-game) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Poorvaj-HV/Java/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Poorvaj-HV/Java/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Stack
@@ -323,6 +324,7 @@ Java DSA
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorvaj-HV/Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Poorvaj-HV/Java/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Poorvaj-HV/Java/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Poorvaj-HV/Java/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Poorvaj-HV/Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Poorvaj-HV/Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Poorvaj-HV/Java/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -524,6 +526,7 @@ Java DSA
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Poorvaj-HV/Java/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Poorvaj-HV/Java/tree/master/1025-divisor-game) |
 ## Queue
 |  |
 | ------- |
@@ -611,4 +614,8 @@ Java DSA
 | ------- |
 | [0155-min-stack](https://github.com/Poorvaj-HV/Java/tree/master/0155-min-stack) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Poorvaj-HV/Java/tree/master/1381-design-a-stack-with-increment-operation) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Poorvaj-HV/Java/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
