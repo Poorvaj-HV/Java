@@ -63,6 +63,7 @@ Java DSA
 | [0485-max-consecutive-ones](https://github.com/Poorvaj-HV/Java/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Poorvaj-HV/Java/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Poorvaj-HV/Java/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/Poorvaj-HV/Java/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Poorvaj-HV/Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Poorvaj-HV/Java/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Poorvaj-HV/Java/tree/master/0645-set-mismatch) |
@@ -438,6 +439,7 @@ Java DSA
 | [0237-delete-node-in-a-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Poorvaj-HV/Java/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/Poorvaj-HV/Java/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Poorvaj-HV/Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -537,6 +539,7 @@ Java DSA
 | [0225-implement-stack-using-queues](https://github.com/Poorvaj-HV/Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Poorvaj-HV/Java/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poorvaj-HV/Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Poorvaj-HV/Java/tree/master/0622-design-circular-queue) |
 ## Sliding Window
 |  |
 | ------- |
@@ -621,6 +624,7 @@ Java DSA
 | [0155-min-stack](https://github.com/Poorvaj-HV/Java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Poorvaj-HV/Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Poorvaj-HV/Java/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Poorvaj-HV/Java/tree/master/0622-design-circular-queue) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Poorvaj-HV/Java/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Brainteaser
 |  |
