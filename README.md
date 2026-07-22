@@ -79,6 +79,7 @@ Java DSA
 | [0977-squares-of-a-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Poorvaj-HV/Java/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Poorvaj-HV/Java/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/Poorvaj-HV/Java/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Poorvaj-HV/Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1345-jump-game-iv](https://github.com/Poorvaj-HV/Java/tree/master/1345-jump-game-iv) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Poorvaj-HV/Java/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -501,6 +502,7 @@ Java DSA
 | [0073-set-matrix-zeroes](https://github.com/Poorvaj-HV/Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Poorvaj-HV/Java/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Poorvaj-HV/Java/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/Poorvaj-HV/Java/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Poorvaj-HV/Java/tree/master/1672-richest-customer-wealth) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Poorvaj-HV/Java/tree/master/1914-cyclically-rotating-a-grid) |
 | [2614-prime-in-diagonal](https://github.com/Poorvaj-HV/Java/tree/master/2614-prime-in-diagonal) |
@@ -515,6 +517,7 @@ Java DSA
 | [0412-fizz-buzz](https://github.com/Poorvaj-HV/Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Poorvaj-HV/Java/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Poorvaj-HV/Java/tree/master/0682-baseball-game) |
+| [1260-shift-2d-grid](https://github.com/Poorvaj-HV/Java/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Poorvaj-HV/Java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Poorvaj-HV/Java/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/Poorvaj-HV/Java/tree/master/1920-build-array-from-permutation) |
