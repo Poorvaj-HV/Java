@@ -27,13 +27,6 @@ class Solution {
         }
 
         List<List<Integer>> resultGrid = new ArrayList<>();
-        // int i = 0;
-        for(int[] row : grid) {
-            for(int x : row) {
-                System.out.print(x + " ");
-            }
-        }
-
 
         for(int i=0; i<n; i++) {
             List<Integer> rowGrid = new ArrayList<>();
