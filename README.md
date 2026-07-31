@@ -205,6 +205,7 @@ Java DSA
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Poorvaj-HV/Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Poorvaj-HV/Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/Poorvaj-HV/Java/tree/master/2540-minimum-common-value) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Poorvaj-HV/Java/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -256,6 +257,7 @@ Java DSA
 | [3120-count-the-number-of-special-characters-i](https://github.com/Poorvaj-HV/Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Poorvaj-HV/Java/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Poorvaj-HV/Java/tree/master/3612-process-string-with-special-operations-i) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Poorvaj-HV/Java/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -529,6 +531,7 @@ Java DSA
 | [2553-separate-the-digits-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/Poorvaj-HV/Java/tree/master/2810-faulty-keyboard) |
 | [3612-process-string-with-special-operations-i](https://github.com/Poorvaj-HV/Java/tree/master/3612-process-string-with-special-operations-i) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Poorvaj-HV/Java/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Number Theory
 |  |
 | ------- |
