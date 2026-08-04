@@ -110,6 +110,7 @@ Java DSA
 | [3046-split-the-array](https://github.com/Poorvaj-HV/Java/tree/master/3046-split-the-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Poorvaj-HV/Java/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Poorvaj-HV/Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3731-find-missing-elements](https://github.com/Poorvaj-HV/Java/tree/master/3731-find-missing-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Poorvaj-HV/Java/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Poorvaj-HV/Java/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3861-minimum-capacity-box](https://github.com/Poorvaj-HV/Java/tree/master/3861-minimum-capacity-box) |
@@ -163,6 +164,7 @@ Java DSA
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Poorvaj-HV/Java/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Poorvaj-HV/Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Poorvaj-HV/Java/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3731-find-missing-elements](https://github.com/Poorvaj-HV/Java/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Poorvaj-HV/Java/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
@@ -421,6 +423,7 @@ Java DSA
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Poorvaj-HV/Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Poorvaj-HV/Java/tree/master/2733-neither-minimum-nor-maximum) |
+| [3731-find-missing-elements](https://github.com/Poorvaj-HV/Java/tree/master/3731-find-missing-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Poorvaj-HV/Java/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Backtracking
 |  |
