@@ -353,6 +353,7 @@ Java DSA
 | [3099-harshad-number](https://github.com/Poorvaj-HV/Java/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Poorvaj-HV/Java/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Poorvaj-HV/Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Poorvaj-HV/Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Poorvaj-HV/Java/tree/master/3492-maximum-containers-on-a-ship) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Poorvaj-HV/Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Poorvaj-HV/Java/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -580,6 +581,7 @@ Java DSA
 | [0204-count-primes](https://github.com/Poorvaj-HV/Java/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/Poorvaj-HV/Java/tree/master/2427-number-of-common-factors) |
 | [2951-find-the-peaks](https://github.com/Poorvaj-HV/Java/tree/master/2951-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Poorvaj-HV/Java/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Counting Sort
 |  |
 | ------- |
