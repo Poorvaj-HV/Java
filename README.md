@@ -106,6 +106,7 @@ Java DSA
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Poorvaj-HV/Java/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2951-find-the-peaks](https://github.com/Poorvaj-HV/Java/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Poorvaj-HV/Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Poorvaj-HV/Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3046-split-the-array](https://github.com/Poorvaj-HV/Java/tree/master/3046-split-the-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Poorvaj-HV/Java/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -159,6 +160,7 @@ Java DSA
 | [2716-minimize-string-length](https://github.com/Poorvaj-HV/Java/tree/master/2716-minimize-string-length) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Poorvaj-HV/Java/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2965-find-missing-and-repeated-values](https://github.com/Poorvaj-HV/Java/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Poorvaj-HV/Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Poorvaj-HV/Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3046-split-the-array](https://github.com/Poorvaj-HV/Java/tree/master/3046-split-the-array) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Poorvaj-HV/Java/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -424,6 +426,7 @@ Java DSA
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Poorvaj-HV/Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Poorvaj-HV/Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Poorvaj-HV/Java/tree/master/2733-neither-minimum-nor-maximum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Poorvaj-HV/Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Poorvaj-HV/Java/tree/master/3731-find-missing-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Poorvaj-HV/Java/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Backtracking
