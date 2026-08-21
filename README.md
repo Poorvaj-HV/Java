@@ -390,6 +390,7 @@ Java DSA
 | [0287-find-the-duplicate-number](https://github.com/Poorvaj-HV/Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Poorvaj-HV/Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Poorvaj-HV/Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Poorvaj-HV/Java/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Poorvaj-HV/Java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Poorvaj-HV/Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Poorvaj-HV/Java/tree/master/1539-kth-missing-positive-number) |
@@ -651,4 +652,8 @@ Java DSA
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Poorvaj-HV/Java/tree/master/1025-divisor-game) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Poorvaj-HV/Java/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
