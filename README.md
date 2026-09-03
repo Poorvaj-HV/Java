@@ -263,6 +263,7 @@ Java DSA
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Poorvaj-HV/Java/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Poorvaj-HV/Java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Poorvaj-HV/Java/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3110-score-of-a-string](https://github.com/Poorvaj-HV/Java/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Poorvaj-HV/Java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Poorvaj-HV/Java/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Poorvaj-HV/Java/tree/master/3612-process-string-with-special-operations-i) |
