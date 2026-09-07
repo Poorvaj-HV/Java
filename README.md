@@ -19,6 +19,7 @@ Java DSA
 | [0035-search-insert-position](https://github.com/Poorvaj-HV/Java/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Poorvaj-HV/Java/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Poorvaj-HV/Java/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Poorvaj-HV/Java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Poorvaj-HV/Java/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Poorvaj-HV/Java/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Poorvaj-HV/Java/tree/master/0053-maximum-subarray) |
@@ -329,6 +330,7 @@ Java DSA
 | [0013-roman-to-integer](https://github.com/Poorvaj-HV/Java/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Poorvaj-HV/Java/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Poorvaj-HV/Java/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Poorvaj-HV/Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Poorvaj-HV/Java/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Poorvaj-HV/Java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Poorvaj-HV/Java/tree/master/0069-sqrtx) |
@@ -520,6 +522,7 @@ Java DSA
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Poorvaj-HV/Java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Poorvaj-HV/Java/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Poorvaj-HV/Java/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Poorvaj-HV/Java/tree/master/0073-set-matrix-zeroes) |
