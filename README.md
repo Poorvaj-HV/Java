@@ -36,6 +36,7 @@ Java DSA
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Poorvaj-HV/Java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/Poorvaj-HV/Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Poorvaj-HV/Java/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Poorvaj-HV/Java/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Poorvaj-HV/Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Poorvaj-HV/Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Poorvaj-HV/Java/tree/master/0162-find-peak-element) |
@@ -284,6 +285,7 @@ Java DSA
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Poorvaj-HV/Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Poorvaj-HV/Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Poorvaj-HV/Java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0152-maximum-product-subarray](https://github.com/Poorvaj-HV/Java/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Poorvaj-HV/Java/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Poorvaj-HV/Java/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Poorvaj-HV/Java/tree/master/1025-divisor-game) |
